@@ -10,13 +10,11 @@ namespace YaPe2_13123
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Ingrese el nùmero de elementos: ");
+            Console.WriteLine("Los numeros son: ");
             for (int i = 10; i >= 1; i--)
             {
                 Console.WriteLine(i);
-                if (i > 1) ;
-
-                    }
+            }
            
         }
     }
